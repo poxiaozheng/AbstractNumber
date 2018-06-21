@@ -3,7 +3,7 @@
 #define INTERERNUMBER_H
 
 
-#include"RealNumber.h"
+#include"Realnumber.h"
 class IntegerNumber :public RealNumber
 {
 public:

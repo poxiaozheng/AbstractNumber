@@ -1,4 +1,4 @@
-#include "IntegerNumber.h"
+#include "Integernumber.h"
 #include<iostream>
 using namespace std;
 IntegerNumber::IntegerNumber()

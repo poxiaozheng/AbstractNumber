@@ -6,15 +6,16 @@ void Number::print()
 	
 }
 
-Number Number::add(const Number & other)
+Number Number::operator+(const Number & other)
 {
 	Number C;
 	return C;
 }
 
-Number Number::mul(const Number & other)
+Number Number::operator*(const Number & other)
 {
 	Number D;
 	return D;
 }
+
 

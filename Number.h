@@ -7,8 +7,8 @@ class Number
 	public:
 	
 	virtual void print();
-	virtual Number add(const Number& other);
-	virtual Number mul(const Number& other) ;
+	virtual Number operator+(const Number& other);
+	virtual Number operator*(const Number& other) ;
 };
 
 
